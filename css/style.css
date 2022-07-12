@@ -1,0 +1,253 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700%7CWork+Sans:300,400,500,600,700&display=swap);
+@media screen and (max-width: 300px) {
+    /* write your CSS in this code block */
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-right: 90px;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    padding-top: 30px;
+}
+a{
+    margin-left: 30px;
+    color: #00b39b;
+    
+    
+}
+header{
+    background-color: rgb(255, 255, 255);
+    color: aqua;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0px
+    
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.logo-docplanner{
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.first-div{
+    text-align: center;
+    margin:100px auto 100px auto;
+   display: flex;
+   flex-direction: column;
+}
+.parent-paraghraph{
+    display: flex;
+    justify-content: space-around;
+}
+.parent-paraghraph p{
+text-align: left;
+
+}
+.x{
+    width:400px;
+    font-family: Roboto,Arial,sans-serif;
+    color:#747474
+}
+.p-one{
+    padding-top: 40px;
+}
+.p-two{
+    padding-top: 40px;
+}
+.title{
+    color: #00b39b;
+    font-family: Roboto,Arial,sans-serif;
+}
+.block-1{
+    background-color: #00b39b;
+    width: 200px;
+    height: 300px;
+    padding-left: 30px;
+    color: white;
+    padding-right: 50px;
+    padding-top: 50px;
+    margin-top: 50px;
+    border-radius: 30px;
+    text-align: justify;
+    
+
+
+}
+.block-2{
+    background-color: #0b38ec;
+    width: 200px;
+    height: 300px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 50px;
+    border-radius: 30px;
+    text-align: justify;
+
+
+}
+.block-3{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+    border-radius: 30px;
+    text-align: justify;
+}
+.first-div{
+    justify-content: space-around;
+    text-align: center;
+}
+.blocks{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+main{
+width : 1015px;
+margin-left: auto;
+margin-right: auto;
+}
+.paragraphe{
+    width: 200px;
+    color: #13655b;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+    
+}
+*{
+    margin: 0;
+
+}
+.suite{
+    height: auto;
+    display:flex;
+    background-color: #d9f6f6;
+    justify-content: space-around;
+}
+.pp{
+    color: #00b39b;
+
+    margin-left: 170px;
+    padding-top: 5%;
+    width: 30%;
+
+}
+.pp p{
+    color: #747474;
+}
+.image{
+    margin-top: 50px;
+    margin-right: 50px;
+    
+
+}
+.boxw {
+    text-align: center;
+    padding:20px;
+    margin: 10px;
+    background-color: white;
+    height: 40%;
+    width: 35%;
+}
+.boxs{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.forever{
+    text-align: center;
+    color: #00b39b;
+   
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 120px;
+}
+.all{
+    display: flex;
+    background-color: red;
+    align-items: center;
+    
+}
+.images{
+    margin:60px auto 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1100px;
+
+}
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;}
+
+.bot{
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    margin-bottom: 50px;
+}
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+.ppp{
+    text-align: center;
+}
+.ppp h2{
+    padding-bottom: 30px;
+}
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
